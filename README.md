@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Using This Template
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+To use this template run
+```
+git clone https://github.com/Joeyg61703/react-tailwind-template
+cd react-tailwind-template/
+```
 
 ## Available Scripts
 
