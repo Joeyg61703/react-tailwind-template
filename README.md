@@ -16,7 +16,7 @@ If you would like to learn more about these commands, you can find them [here](h
 ## Tailwind Config
 
 This template has no default configuration except for two primary color placeholders.
-If you would like to learn how to add your own configurations, you can find instruction [here](https://tailwindcss.com/docs/configuration).
+If you would like to learn how to add your own configurations, you can find instructions [here](https://tailwindcss.com/docs/configuration).
 
 ## Learn More
 
