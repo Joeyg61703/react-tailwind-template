@@ -1,12 +1,11 @@
 # Using This Template
 
-To use this template run
+To use this template click the green button above labled "use this template",
+then clone it from your repository and run
 ```
-git clone https://github.com/Joeyg61703/react-tailwind-template
-cd react-tailwind-template/
 npm install
 ```
-After these 3 lines you have access to tailwind within your react project.
+After this, you're ready to go.
 
 ## Available Scripts
 
